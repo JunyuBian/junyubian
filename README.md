@@ -4,9 +4,11 @@
 
 ### I'm Junyu Bian
 
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=junyubian)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 Currently working in Beijing, China.
-- 💬 Ask me about Java, TypeScript and my projects on [junyu.bian@qq.com](mailto:junyu.bian@qq.com).
-- ⭐ You may like [webkettle](https://junyubian.github.io).
+- 💬 Ask me about Java, Cloud Computing and my projects on [junyu.bian@qq.com](mailto:junyu.bian@qq.com).
+- ⭐ You may like [myWeb](https://junyubian.github.io).
 
 ### 🛠 Tech Stack
 
@@ -22,9 +24,6 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-### About me
-- [Website](https://junyubian.github.io)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
