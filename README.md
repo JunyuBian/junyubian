@@ -1,3 +1,3 @@
-- blog:   https://junyu-bian.github.io/
-- mailTo: junyu.bian@qq.com
-- Cloud & Edge Computing
+- Posts:   https://junyu-bian.github.io/
+- MailTo:  junyu.bian@qq.com
+- Cloud'n'Edge Computing
