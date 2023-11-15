@@ -1,10 +1,5 @@
 ## Hi there! 👋
 ---
-<img align="right" alt="GIF" src="https://github.com/images/mona-whisper.gif" /> 
-
-### I'm Junyu Bian
-
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=junyubian)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 Currently working in Beijing, China.
 - 💬 Ask me about Java, Cloud Computing and my projects on [junyu.bian@qq.com](mailto:junyu.bian@qq.com).
