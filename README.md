@@ -1,2 +1,2 @@
-- Posts https://junyubian.github.io/blogs/
+- Posts https://junyubian.github.io/
 - Mail2 junyu.bian@qq.com
