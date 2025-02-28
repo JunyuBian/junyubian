@@ -1,2 +1,2 @@
-- Posts https://junyubian.github.io/
+- Posts [https://junyubian.github.io/](https://github.com/JunyuBian/Tech/wiki)
 - Mail2 junyu.bian@gmail.com
