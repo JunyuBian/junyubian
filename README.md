@@ -1,2 +1,2 @@
-- Posts [tech notes](https://github.com/JunyuBian/junyubian/wiki)
+- Posts [tech notes](https://junyu-bian.gitbook.io/junyu-bian)
 - Mail2 junyu.bian@gmail.com
